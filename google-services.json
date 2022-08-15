@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "100211983642",
+    "project_id": "hrana-project",
+    "storage_bucket": "hrana-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100211983642:android:4ec508e0ca7d26a68058a3",
+        "android_client_info": {
+          "package_name": "com.food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100211983642-mq77n3iih5kmc53kovq7sfd44u0rne6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrKgwZIbeA5CGKp9LSU_QHjPBDQbeMRGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100211983642-mq77n3iih5kmc53kovq7sfd44u0rne6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
